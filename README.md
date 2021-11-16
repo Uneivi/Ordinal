@@ -1,2 +1,2 @@
 # Ordinal
-Translate numbers into the texteable way.
+Translate numbers into the string way.
